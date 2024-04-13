@@ -38,7 +38,8 @@ This project implements a Hybrid Branch Predictor in C++ using bimodal and gshar
 - Sample trace file for testing
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
+- [Chetan Choudhary](https://github.com/chetan-codes)
+- [Travis Miller](https://github.com/travismiller22)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
